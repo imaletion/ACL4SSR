@@ -48,7 +48,12 @@
 (^|\.)\w*moke\w*\.\w*$
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
-
+(^|\.)\w*xunlei\w*\.\w*$
+(^|\.)\w*sandai\w*\.\w*$
+(^|\.)\w*Thunder\w*\.\w*$
+(^|\.)\w*XLLiveUD\w*\.\w*$
+(^|\.)\w*torrent\w*\.\w*$
+(^|\.)\w*BitTorrent\w*\.\w*$
 # 360
 (^|\.)360\.cn$
 (^|\.)qhimg\.com$
