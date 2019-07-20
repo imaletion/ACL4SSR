@@ -6110,6 +6110,12 @@
 [proxy_list]
 # 代理列表
 
+#咕咕
+(^|\.)googleapis\.com$
+(^|\.)dl.google\.com$
+
+
+
 # 国外域名
 ^.*\.hk$
 ^.*\.tw$
