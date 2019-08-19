@@ -22,7 +22,7 @@
 #**********************************************************************
 
 [remote_dns]
-services.googleapis.cn
+(^|\.)googleapis\.cn$
 
 [proxy_all]
 # 默认代理
