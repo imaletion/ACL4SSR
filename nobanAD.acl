@@ -56,6 +56,9 @@
 (^|\.)\w*XLLiveUD\w*\.\w*$
 (^|\.)\w*torrent\w*\.\w*$
 (^|\.)\w*BitTorrent\w*\.\w*$
+(^|\.)\w*szextshort\w*\.\w*$
+(^|\.)\w*weixin\w*\.\w*$
+
 # 360
 (^|\.)360\.cn$
 (^|\.)qhimg\.com$
@@ -144,7 +147,10 @@
 (^|\.)gtimg\.cn$
 (^|\.)qpic\.cn$
 (^|\.)smtcdns\.com$
- 
+
+#weixin
+(^|\.)weixin.qq\.com$
+
 # Toutiao Bytedance
 (^|\.)bytecdn\.cn$
 (^|\.)bytedance\.com$
