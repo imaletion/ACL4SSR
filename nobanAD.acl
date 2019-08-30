@@ -6121,6 +6121,7 @@
 # 咕咕
 (^|\.)googleapis\.com$
 (^|\.)dl.google\.com$
+(^|\.)googleapis\.cn$
 
 
 
