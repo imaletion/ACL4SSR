@@ -18,3 +18,5 @@
 ### [outbound_block_list] 禁止访问列表 在26行
 ### [bypass_list] 直连列表 禁止访问列表 在723多行
 ### [proxy_list] 代理列表 在1205多行
+[proxy_list]
+(^|\.)youtube\.com$
