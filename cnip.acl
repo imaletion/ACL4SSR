@@ -8835,3 +8835,12 @@
 223.255.0.0/17
 223.255.236.0/22
 223.255.252.0/23
+
+[proxy_list]
+# 代理列表
+
+# 咕咕
+(^|\.)googleapis\.com$
+(^|\.)dl.google\.com$
+(^|\.)googleapis\.cn$
+(^|\.)google\.com$
