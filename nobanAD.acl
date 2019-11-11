@@ -50,14 +50,9 @@
 (^|\.)\w*moke\w*\.\w*$
 (^|\.)\w*xiami\w*\.\w*$
 (^|\.)\w*xiaomi\w*\.\w*$
-(^|\.)\w*xunlei\w*\.\w*$
-(^|\.)\w*sandai\w*\.\w*$
-(^|\.)\w*Thunder\w*\.\w*$
-(^|\.)\w*XLLiveUD\w*\.\w*$
-(^|\.)\w*torrent\w*\.\w*$
-(^|\.)\w*BitTorrent\w*\.\w*$
-(^|\.)\w*szextshort\w*\.\w*$
-(^|\.)\w*weixin\w*\.\w*$
+(torrent|\.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce\.php\?passkey=)
+(.?)(xunlei|sandai|Thunder|XLLiveUD)(.)	
+(api|ps|sv|offnavi|newvector|ulog\.imap|newloc)(\.map|)\.(baidu|n\.shifen)\.com	
 
 # 360
 (^|\.)360\.cn$
