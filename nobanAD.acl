@@ -20,8 +20,7 @@
 # [remote_dns] 远程 DNS 解析 -不加使用本地 DNS
 #
 #**********************************************************************
-[outbound_block_list]
-^https?:\/\/api\.abema\.io\/v\d\/ip\/check=
+
 
 
 [proxy_all]
