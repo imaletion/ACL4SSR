@@ -28,6 +28,7 @@
 # 广告关键词
 360.com
 https?:\/\/api\.abema\.io\/v\d\/ip\/check
+(^|\.)https?:\/\/api\.abema\.io\/v\d\/ip\/check*$
 (^|\.)\w*admarvel\w*\.\w*$
 (^|\.)\w*admaster\w*\.\w*$
 (^|\.)\w*adsage\w*\.\w*$
