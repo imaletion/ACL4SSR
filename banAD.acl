@@ -26,6 +26,7 @@
 # 禁止访问列表
 
 # 广告关键词
+api.abema.io/v1/ip/check*$
 https://api.abema.io/v1/ip/check*$
 360.com
 https?:\/\/api\.abema\.io\/v\d\/ip\/check
