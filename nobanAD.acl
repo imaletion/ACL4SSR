@@ -6786,6 +6786,7 @@
 ^.*\.tw$
 
 # MyList
+(^|\.)maying\.co$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
